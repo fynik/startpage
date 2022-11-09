@@ -1,13 +1,64 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
 
-/* .tabslist {
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
-} */
+.greeting {
+  font-family: 'Inter', sans-serif;
+  color: #8caaee;
+  text-align: center;
+}
 
-/* .tab {
+.greeting h2 {
+  font-size: 40px;
+}
 
-} */
+.clock {
+  font-size: 30px;
+  font-weight: 700;
+}
 
-/* .tab p {
+.tabslist {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
 
-} */
+}
+
+.tab {
+  color: #a6d189;
+  font-size: 1.3rem;
+  text-align: center;
+  margin: 0px 1.3rem;
+}
+
+.tab h4 {
+  text-transform: uppercase;
+  margin: 0px;
+}
+
+.tab hr {
+  color: #a6d189;
+}
+
+.tab p {
+  margin: 0.5rem;
+}
+.link {
+  color: #81c8be;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.tab:hover {
+  transform: scale(1.05);
+}
+
+.link:hover {
+  color: #ef9f76;
+}

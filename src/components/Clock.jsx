@@ -11,7 +11,7 @@ const Clock = () => {
     return () => clearInterval(timer);
   }, []);
 
-  return <p>Сегодня {date.toLocaleDateString("ru-RU", options)}, {date.toLocaleTimeString("ru-RU")}</p>
+  return <p className="clock">Сегодня {date.toLocaleDateString("ru-RU", options)}, {date.toLocaleTimeString("ru-RU")}</p>
 }
 
 export default Clock;

@@ -20,10 +20,6 @@ const config = {
         {
           name: "rock arsenal",
           link: "https://www.rockarsenal.ru/online/",
-        },
-        {
-          name: "Фантастика и попаданцы",
-          link: "https://dzen.ru/backinussr",
         }
       ]
     },
