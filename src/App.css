@@ -9,17 +9,14 @@
 
 .greeting {
   font-family: 'Inter', sans-serif;
+  font-weight: 400;
   color: #8caaee;
   text-align: center;
 }
 
-.greeting h2 {
-  font-size: 40px;
-}
-
 .clock {
-  font-size: 30px;
-  font-weight: 700;
+  font-size: 1.5rem;
+  font-weight: 400;
 }
 
 .tabslist {
@@ -32,9 +29,9 @@
 
 .tab {
   color: #a6d189;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   text-align: center;
-  margin: 0px 1.3rem;
+  margin: 1rem 1.3rem;
 }
 
 .tab h4 {
