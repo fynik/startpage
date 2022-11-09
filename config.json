@@ -1,0 +1,166 @@
+{ 
+  "user": "Антон",
+  "tabItemAllowedLength": 15,
+  "tabs": [
+    {
+      "title": "Var",
+      "items": [
+        {
+          "name": "author.today",
+          "link": "https://author.today"
+        },
+        {
+          "name": "fantlab",
+          "link": "https://fantlab.ru"
+        },
+        {
+          "name": "myshows",
+          "link": "https://myshows.me/"
+        },
+        {
+          "name": "rock arsenal",
+          "link": "https://www.rockarsenal.ru/online/"
+        },
+        {
+          "name": "antizapret",
+          "link": "https://antizapret.prostovpn.org"
+        }
+
+      ]
+    },
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "name": "4pda",
+          "link": "https://4pda.to"
+        },
+        {
+          "name": "ixbt",
+          "link": "https://www.ixbt.com"
+        },
+        {
+          "name": "ecigtalk",
+          "link": "https://www.ecigtalk.org"
+        },
+        {
+          "name": "ecigforum",
+          "link": "https://ecig-forum.ru"
+        }
+      ]
+    },
+    {
+      "title": "code",
+      "items": [
+        {
+          "name": "learn js",
+          "link": "https://learn.javascript.ru/"
+        },
+        {
+          "name": "eloquentjs",
+          "link": "https://eloquentjavascript.net/"
+        },
+        {
+          "name": "this in js",
+          "link": "https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth"
+        },
+        {
+          "name": "fullstack",
+          "link": "https://fullstackopen.com/en/about"
+        },
+        {
+          "name": "fcc",
+          "link": "https://www.freecodecamp.org/learn/"
+        },
+        {
+          "name": "z2m_fe",
+          "link": "https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/"
+        },
+        {
+          "name": "leetcode",
+          "link": "https://leetcode.com/study-plan/"
+        },
+        {
+          "name": "codewars",
+          "link": "https://www.codewars.com/dashboard"
+        }
+      ]
+    },
+    {
+      "title": "work",
+      "items": [
+        {
+          "name": "каталог плит",
+          "link": "http://omsk.tdajbi.ru/category-106537/category-106545/category-106650/category-106549.html"
+        },
+        {
+          "name": "webcad.pro",
+          "link": "http://webcad.pro"
+        }
+      ]
+    },
+    {
+      "title": "sim",
+      "items": [
+        {
+          "name": "xplane.org",
+          "link": "https://forums.x-plane.org/index.php?/forums/"
+        },
+        {
+          "name": "msfs forums",
+          "link": "https://forums.flightsimulator.com/"
+        },
+        {
+          "name": "fsdeveloper",
+          "link": "https://www.fsdeveloper.com/forum/"
+        },
+        {
+          "name": "simbrief",
+          "link": "https://www.simbrief.com/home/index.php"
+        },
+        {
+          "name": "autorouter",
+          "link": "https://www.autorouter.aero/login"
+        },
+        {
+          "name": "jepp aips",
+          "link": "https://worldofavia.ru/airport-charts"
+        }
+      ]
+    },
+    {
+      "title": "fse",
+      "items": [
+        {
+          "name": "fseconomy",
+          "link": "https://server.fseconomy.net/index.jsp"
+        },
+        {
+          "name": "virtairlines",
+          "link": "http://www.virtairlines.ru/"
+        },
+        {
+          "name": "ftw",
+          "link": "https://www.ftw-sim.de/"
+        }
+      ]
+    },
+    {
+      "title": "acf perf",
+      "items": [
+        {
+          "name": "pohp tbm",
+          "link": "https://pohperformance.com/TBM/index.html"
+        },
+        {
+          "name": "pohp a36",
+          "link": "http://pohperformance.com/Bonanza/"
+        },
+        {
+          "name": "airbus perf",
+          "link": "http://perfcalc.pradz.de/"
+        }
+      ]
+    }
+  ]
+}
