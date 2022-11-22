@@ -1,5 +1,10 @@
 const getOptions = () => {
-  const req = fetch("./config.json");
+  const req = fetch("./config.json", {
+    headers: {
+      "Content-Type": "application/json",
+      Accept: "application/json"
+    }  
+  });
   return req.then(res => res.json());
 }
 
