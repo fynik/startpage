@@ -79,6 +79,14 @@
         {
           "name": "codewars",
           "link": "https://www.codewars.com/dashboard"
+        },
+        {
+          "name": "render",
+          "link": "https://dashboard.render.com/"
+        },
+        {
+          "name": "vercel",
+          "link": "https://vercel.com/dashboard"
         }
       ]
     },
