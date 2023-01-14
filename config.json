@@ -57,10 +57,6 @@
           "link": "https://learn.javascript.ru/"
         },
         {
-          "name": "ya go basics",
-          "link": "https://practicum.yandex.ru/profile/go-basics/"
-        },
-        {
           "name": "fcc",
           "link": "https://www.freecodecamp.org/learn/"
         },
@@ -121,6 +117,10 @@
         {
           "name": "jepp aips",
           "link": "https://worldofavia.ru/airport-charts"
+        },
+        {
+          "name": "charts.navigraph",
+          "link": "https://charts.navigraph.com/flights"
         }
       ]
     },
