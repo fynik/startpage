@@ -53,6 +53,10 @@
       "title": "code",
       "items": [
         {
+          "name": "indie python",
+          "link": "https://stepik.org/course/63085/syllabus"
+        },  
+        {
           "name": "learn js",
           "link": "https://learn.javascript.ru/"
         },
