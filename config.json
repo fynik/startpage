@@ -129,6 +129,11 @@
         {
           "name": "charts.navigraph",
           "link": "https://charts.navigraph.com/flights"
+        },
+        
+        {
+          "name": "MSFS Россия + СНГ",
+          "link": "https://www.google.com/maps/d/u/0/viewer?mid=15BA6MT7gAo1QuUBAgFIeXa4um3q-Qh8d&ll=47.62873616183586%2C80.92463215630903&z=5"
         }
       ]
     },
